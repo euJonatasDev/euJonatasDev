@@ -3,3 +3,5 @@
 - 📚 Studying information systems
 - 🌱 I’m currently learning Python, Java and JavaScript
 - 👨‍💻 Technology enthusiast
+
+## Contact
